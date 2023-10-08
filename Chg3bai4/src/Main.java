@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /*Hello */
-/*dMM LUÔN */
+/*dMM LUÔN, cc nhé*/
 public class Main {
 
 	public static void main(String[] args) {
